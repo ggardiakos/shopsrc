@@ -1,0 +1,6 @@
+export { SHOPIFY_WEBHOOKS_OPTIONS } from './webhooks.module-builder';
+export const SHOPIFY_WEBHOOKS_METADATA = 'SHOPIFY_WEBHOOKS_METADATA';
+export const SHOPIFY_WEBHOOKs_CONTROLLER_PATH_HACK =
+  'SHOPIFY_WEBHOOKs_CONTROLLER_PATH_HACK';
+
+export const SHOPIFY_WEBHOOKS_DEFAULT_PATH = '/shopify/webhooks';
